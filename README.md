@@ -1,25 +1,22 @@
-# RNA-seq
-RNA seq data analysis
-1.Raw Dataset
-First of all,we retrieve the genomic data set from NCBI SRA database
-(http://www.ncbi.nlm.nih.gov/sra/SRX1769933%5Baccn%5D).Then covert this dataset to
-FASTQ format using sra toolkit.
-2.Quality Check
-Data quality assessment (QA) and exploration are essential steps of any data analysis. These
-steps should typically be performed very early in the analysis of a new data set, preceding or in
-parallel to the normalization step and differential expression testing.
-3.Alignment
-Raw data of colorectal cancer used in Bowtie software used for alignment is in FASTQ
-format.FASTQ files are ASCII text files that encode both nucleotide calls as well as 'quality
-information', which provides information about the confidence of each nucleotide. FASTQ
-format uses 4 lines for each read produced by the sequencer. Fastq files are normally given the
-file extension ".fq" or ".fastq".
-Alignment, also called mapping, of reads is an essential step in re​ sequencing. Having sequenced
-an organism of a species before, and having constructed a reference sequence, re​ sequencing
-more organisms of the same species allows us to see the genetic differences to
-the reference sequence, and, by extension, to each other. Alignments of data from these
-re​ sequenced organisms is a relatively simple method of detecting variation in samples.
-4.Differential expression analysis
-Differential expression (DE) analysis using RNA​ seq is commonly employed to interrogate
-changes between different experimental conditions.
-5.Pathway analysis
+Colorectal cancer is a cancer that starts in the colon or the rectum. These cancers can also be
+named colon cancer or rectal cancer, depending on where they start. Colon cancer and rectal
+cancer are often grouped together because they have many features in common. Cancer starts
+when cells in the body begin to grow out of control. Cells in nearly any part of the body can
+become cancer, and can spread to other areas of the body.[1] Perhaps the most widely used
+targeted sequencing method is exome sequencing. The exome (the protein ​ coding region of the
+human genome) represents less than 2% of the genetic code, but contains ~85% of known
+disease ​ related variants,1 making whole​ exome sequencing a cost​ effective alternative to whole
+genome sequencing.Exome sequencing can efficiently identify coding variants across a wide
+range of applications, including population genetics, genetic disease, and cancer studies.[2]With
+the emergence of nextgen sequencing technologies, it is now possible to extensively and rapidly
+evaluate a large number of genes and samples to inform its diagnosis, prognosis and potential
+response to therapy.
+Previous genetic and genomic studies of CRC have identified many of the critical drivers that are
+important to CRC development . For example, the cancer genes APC, KRAS and TP53 have a
+high frequency of genetic aberrations in CRC and are known to play an essential role in CRC
+development.Some of pathways important in the initiation and progression of CRC are the WNT,
+RAS2MAPK, PI3K, TGF​ b, P53 and DNA mismatch​ repair pathways.While the cancer genes
+directly responsible for CRC development have been characterized, less is known about which
+cancer genes delineate advanced versus early stage CRC.In this study our objective is to discover
+novel recurrently mutated genes in colorectal cancer and the different pathways of colorectal
+carcinogenesis and provide an overview of the molecular pathogenesis of colorectal cancer.
