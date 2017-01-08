@@ -1,0 +1,25 @@
+# RNA-seq
+RNA seq data analysis
+1.Raw Dataset
+First of all,we retrieve the genomic data set from NCBI SRA database
+(http://www.ncbi.nlm.nih.gov/sra/SRX1769933%5Baccn%5D).Then covert this dataset to
+FASTQ format using sra toolkit.
+2.Quality Check
+Data quality assessment (QA) and exploration are essential steps of any data analysis. These
+steps should typically be performed very early in the analysis of a new data set, preceding or in
+parallel to the normalization step and differential expression testing.
+3.Alignment
+Raw data of colorectal cancer used in Bowtie software used for alignment is in FASTQ
+format.FASTQ files are ASCII text files that encode both nucleotide calls as well as 'quality
+information', which provides information about the confidence of each nucleotide. FASTQ
+format uses 4 lines for each read produced by the sequencer. Fastq files are normally given the
+file extension ".fq" or ".fastq".
+Alignment, also called mapping, of reads is an essential step in re​ sequencing. Having sequenced
+an organism of a species before, and having constructed a reference sequence, re​ sequencing
+more organisms of the same species allows us to see the genetic differences to
+the reference sequence, and, by extension, to each other. Alignments of data from these
+re​ sequenced organisms is a relatively simple method of detecting variation in samples.
+4.Differential expression analysis
+Differential expression (DE) analysis using RNA​ seq is commonly employed to interrogate
+changes between different experimental conditions.
+5.Pathway analysis
