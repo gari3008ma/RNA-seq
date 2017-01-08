@@ -1,0 +1,13 @@
+Genomic data was obtained from NCBI sra database
+(http://www.ncbi.nlm.nih.gov/sra/SRX1769933%5Baccn%5D).Dataset has following
+specifications.
+Runs: 2 run
+Instrument: Illumina HiSeq 2500
+Strategy: RNA​ Seq
+Source: TRANSCRIPTOMIC
+Layout: PAIRED
+
+We choose above dataset for study because it was the most recent data available in the database.
+Before analysing this sequence to draw biological conclusions we performed quality control
+checks to ensure that the raw data looks good and there are no problems or biases in the data
+which may affect how we can usefully use it.
