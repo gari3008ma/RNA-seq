@@ -1,4 +1,5 @@
-## i want to contribute to development of this society hence i have uploded this repo
+## 
+
 ### FOLLOWING THIS REPO you will be able to understand what steps to follow to do rna sequencing and as of this project is concerned i have done some very novel research.Following is abstract of my research work.
 
 Colorectal cancer is a cancer that starts in the colon or the rectum. These cancers can also be named colon cancer or rectal cancer, depending on where they start. Colon cancer and rectalcancer are often grouped together because they have many features in common. Cancer starts when cells in the body begin to grow out of control. Cells in nearly any part of the body can become cancer, and can spread to other areas of the body. Perhaps the most widely used targeted sequencing method is exome sequencing. The exome (the protein coding region of the human genome) represents less than 2% of the genetic code, but contains ~85% of known disease  related variants,1 making whole​ exome sequencing a cost​ effective alternative to whole
